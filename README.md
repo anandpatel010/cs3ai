@@ -1,5 +1,5 @@
 # cs3ai
-# Using a custom Long short-term memory model in comparison with Meta's prophet to predict the future price of Bitcoin.
+# Using a custom Long short-term memory model in comparison with Meta's Prophet to predict the future price of Bitcoin with ablation study.
 
 This assignment was completed as part of the coursework for my Bachelor of Science (B.Sc.) degree in Computer Science.
 # Grade
